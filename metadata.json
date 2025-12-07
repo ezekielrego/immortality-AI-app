@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Immortal",
+  "description": "Preserve the essence of your loved ones. A digital presence preserver that learns from chat logs and media.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
